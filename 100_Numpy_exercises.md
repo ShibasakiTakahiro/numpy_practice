@@ -15,25 +15,25 @@ File automatically generated. See the documentation to update questions/answers/
 #### 1. Import the numpy package under the name `np` (★☆☆)
 3/28〇
 #### 2. Print the numpy version and the configuration (★☆☆)
-3/28×
+3/28,30×
 #### 3. Create a null vector of size 10 (★☆☆)
-3/28×
+3/28×,3/30〇
 #### 4. How to find the memory size of any array (★☆☆)
-3/28×
+3/28×,3/30×
 #### 5. How to get the documentation of the numpy add function from the command line? (★☆☆)
-
+3/30×
 #### 6. Create a null vector of size 10 but the fifth value which is 1 (★☆☆)
-
+3/30×
 #### 7. Create a vector with values ranging from 10 to 49 (★☆☆)
-
+3/30×
 #### 8. Reverse a vector (first element becomes last) (★☆☆)
-
+3/30×
 #### 9. Create a 3x3 matrix with values ranging from 0 to 8 (★☆☆)
-
+3/30△
 #### 10. Find indices of non-zero elements from [1,2,0,0,4,0] (★☆☆)
-
+3/30×
 #### 11. Create a 3x3 identity matrix (★☆☆)
-
+3/30×
 #### 12. Create a 3x3x3 array with random values (★☆☆)
 
 #### 13. Create a 10x10 array with random values and find the minimum and maximum values (★☆☆)
