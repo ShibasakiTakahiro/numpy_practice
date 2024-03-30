@@ -12,6 +12,8 @@ If you find an error or think you've a better way to solve some of them, feel
 free to open an issue at <https://github.com/rougier/numpy-100>.
 File automatically generated. See the documentation to update questions/answers/hints programmatically.
 
+解説<https://qiita.com/s_Ato3/items/2a5fa7d39ac9064bba6e>.
+
 #### 1. Import the numpy package under the name `np` (★☆☆)
 3/28〇
 #### 2. Print the numpy version and the configuration (★☆☆)
