@@ -17,33 +17,33 @@ File automatically generated. See the documentation to update questions/answers/
 #### 1. Import the numpy package under the name `np` (★☆☆)
 3/28〇
 #### 2. Print the numpy version and the configuration (★☆☆)
-3/28,30×
+3/28,30×, 31〇
 #### 3. Create a null vector of size 10 (★☆☆)
 3/28×,3/30〇
 #### 4. How to find the memory size of any array (★☆☆)
-3/28×,3/30×
+3/28×,3/30,31×, 4/2〇
 #### 5. How to get the documentation of the numpy add function from the command line? (★☆☆)
-3/30×
+3/30×,3/31〇
 #### 6. Create a null vector of size 10 but the fifth value which is 1 (★☆☆)
-3/30×
+3/30×, 3/31〇, 4/2〇
 #### 7. Create a vector with values ranging from 10 to 49 (★☆☆)
-3/30×
+3/30×, 3/31〇, 4/2〇
 #### 8. Reverse a vector (first element becomes last) (★☆☆)
-3/30×
+3/30×, 3/31〇, 4/2〇
 #### 9. Create a 3x3 matrix with values ranging from 0 to 8 (★☆☆)
-3/30△
+3/30△,3/31〇, 4/2〇
 #### 10. Find indices of non-zero elements from [1,2,0,0,4,0] (★☆☆)
-3/30×
+3/30×, 3/31〇
 #### 11. Create a 3x3 identity matrix (★☆☆)
-3/30×
+3/30×, 3/31〇
 #### 12. Create a 3x3x3 array with random values (★☆☆)
-
+3/31×,
 #### 13. Create a 10x10 array with random values and find the minimum and maximum values (★☆☆)
-
+3/31×
 #### 14. Create a random vector of size 30 and find the mean value (★☆☆)
-
+3/31〇
 #### 15. Create a 2d array with 1 on the border and 0 inside (★☆☆)
-
+3/31×
 #### 16. How to add a border (filled with 0's) around an existing array? (★☆☆)
 
 #### 17. What is the result of the following expression? (★☆☆)
