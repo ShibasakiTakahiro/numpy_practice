@@ -37,16 +37,17 @@ File automatically generated. See the documentation to update questions/answers/
 #### 11. Create a 3x3 identity matrix (★☆☆)
 3/30×, 3/31〇
 #### 12. Create a 3x3x3 array with random values (★☆☆)
-3/31×,
+3/31×,4/24×
 #### 13. Create a 10x10 array with random values and find the minimum and maximum values (★☆☆)
-3/31×
+3/31×, 4/24〇
 #### 14. Create a random vector of size 30 and find the mean value (★☆☆)
-3/31〇
+3/31〇,乱数の関数調べときたい!!!
 #### 15. Create a 2d array with 1 on the border and 0 inside (★☆☆)
-3/31×
+3/31×, 4/24〇
 #### 16. How to add a border (filled with 0's) around an existing array? (★☆☆)
-
+4/24×
 #### 17. What is the result of the following expression? (★☆☆)
+4/25〇
 ```python
 0 * np.nan
 np.nan == np.nan
@@ -57,11 +58,11 @@ np.nan in set([np.nan])
 ```
 
 #### 18. Create a 5x5 matrix with values 1,2,3,4 just below the diagonal (★☆☆)
-
+4/25〇
 #### 19. Create a 8x8 matrix and fill it with a checkerboard pattern (★☆☆)
-
+4/25〇
 #### 20. Consider a (6,7,8) shape array, what is the index (x,y,z) of the 100th element? (★☆☆)
-
+4/25×
 #### 21. Create a checkerboard 8x8 matrix using the tile function (★☆☆)
 
 #### 22. Normalize a 5x5 random matrix (★☆☆)
